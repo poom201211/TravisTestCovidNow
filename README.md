@@ -1,4 +1,6 @@
-# myapp
+[![Build Status](https://travis-ci.com/poom201211/TravisTestCovidNow.svg?branch=master)](https://travis-ci.com/poom201211/TravisTestCovidNow)
+
+# CovidNow
 
 A new Flutter application.
 
